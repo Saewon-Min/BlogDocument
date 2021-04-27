@@ -21,6 +21,7 @@ public class B02ArrayForeach {
 				{4,5,6},
 				{7,8,9,10}
 		};
+		
 		// 출력
 		for (int[] a : twoArr) { // 행
 			for (int b : a) { // 열
