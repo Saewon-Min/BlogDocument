@@ -1,6 +1,5 @@
 package B01_B10;
 
-import javax.swing.plaf.basic.BasicSplitPaneUI.KeyboardDownRightHandler;
 
 /*
 Is-A 관계
