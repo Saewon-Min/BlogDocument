@@ -14,7 +14,7 @@ HashMap<k,v>
 	- 키값으로 검색 => 속도 향상
 	
 */
-public class E08Collection_hashmap {
+public class B08Collection_hashmap {
 
 	public static void main(String[] args) {
 		
